@@ -8,3 +8,16 @@
 #slide-3238-layer-3 {
 	border-radius: 3px;
 }
+
+.d-block h1:hover {
+	color: #DD8C43 !important;
+	text-decoration: none !important;
+}
+
+.navbar-nav li a {
+	font-size: 16px !important;
+}
+
+.navbar-nav li a:hover {
+	color: #DD8C43 !important;
+}
