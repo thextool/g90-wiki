@@ -1,27 +1,15 @@
 /* Add here all your css styles (customizations) */
 
-#slide-3238-layer-2 {
-	font-size: 22px;
-	line-height: 22px;
-}
-
-#slide-3238-layer-3 {
-	border-radius: 3px;
-}
-
 .d-block h1:hover {
 	color: #DD8C43 !important;
 	text-decoration: none !important;
 }
 
-.navbar-nav li a {
-	font-size: 16px !important;
-}
-
-.navbar-nav li a:hover {
-	color: #DD8C43 !important;
-}
-
 .fa {
 	font-size: 20px !important;
+}
+
+.btn-primary:hover {
+	background-color: #333333 !important;
+	border-color: #333333 !important;
 }
